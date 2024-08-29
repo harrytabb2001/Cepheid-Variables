@@ -1,3 +1,5 @@
+### Note
+Due to the amount of images in Cepheid Lab Notebook.pdf, it can struggle to load. To view it in full, please download. 
 # Cepheid Variables 
 ## Summary
 Fifth lab experiment from my second year undergraduate in Physics at The University of Manchester.
@@ -20,5 +22,4 @@ variation and absolute magnitude was used to calculate the distance to each star
 using ds9 software; however, as a challenge, I wrote my own Python script to carry out the experiment and perform all data analysis. This was a valuable learning experience.
 * Cepheid Variables Lab Script.pdf contains a brief outline of the experiment given to me before I started.
 * Cepheid Lab Notebook.pdf contains my handwritten notes from during the experiment including a schematic diagram, key figures, snippets of the recorded data, calculations, data analysis and conclusions.
-### Note that due to the amount of images in this file, they struggle to load. To view in full, please download. 
 * Cepheid Variables Lab Report.pdf contains my written up lab report from after the experiment.
