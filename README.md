@@ -1,4 +1,5 @@
 # Cepheid Variables 
+## Summary
 Fifth lab experiment from my second year undergraduate in Physics at The University of Manchester.
 
 The aim of this experiment was to calculate the distance to spiral galaxy NGC 4258 by measuring the intensity variation
